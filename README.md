@@ -1,4 +1,8 @@
 # CS230OperatingPlatforms
+#Brianna De La Riva
+#Professor Moscon
+#Module 8 Journal
+#11 December 2023
 
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
